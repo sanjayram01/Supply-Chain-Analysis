@@ -2,7 +2,7 @@
 
 
 # Overview
-# This repository contains code and analysis for a Supply Chain project based on a dataset from a Fashion and Beauty startup, specifically focusing on the supply chain of Makeup products. The analysis aims to enhance the effectiveness of the supply chain and create more value for customers.
+## This repository contains code and analysis for a Supply Chain project based on a dataset from a Fashion and Beauty startup, specifically focusing on the supply chain of Makeup products. The analysis aims to enhance the effectiveness of the supply chain and create more value for customers.
 
 Code Execution
 Objective Definition:
